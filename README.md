@@ -257,8 +257,9 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-<img width="1695" height="213" alt="image" src="https://github.com/user-attachments/assets/8359a724-975d-4131-8bca-8a706b72be6c" />
 <img width="1792" height="396" alt="image" src="https://github.com/user-attachments/assets/2caf11d7-d2af-4847-bc39-caaa93e740ef" />
+<img width="1695" height="213" alt="image" src="https://github.com/user-attachments/assets/8359a724-975d-4131-8bca-8a706b72be6c" />
+
 <img width="1749" height="191" alt="image" src="https://github.com/user-attachments/assets/fb4faee1-ed28-4289-a4f0-29967600266b" />
 <img width="1693" height="213" alt="image" src="https://github.com/user-attachments/assets/89c0652a-f5d4-43d9-bbee-41b12f24469b" />
 <img width="1698" height="211" alt="image" src="https://github.com/user-attachments/assets/361f75b4-b25b-4044-b3d5-196cb1279263" />
